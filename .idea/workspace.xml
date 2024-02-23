@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44516ae5-51ee-441f-96b5-e28efe9c7820" name="Changes" comment="prueba">
+    <list default="true" id="44516ae5-51ee-441f-96b5-e28efe9c7820" name="Changes" comment="1listo">
+      <change afterPath="$PROJECT_DIR$/src/ejemplos/suma2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ejemplos/suma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ejemplos/suma.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,11 +56,19 @@
       <option name="project" value="LOCAL" />
       <updated>1708690443756</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="1listo">
+      <created>1708691439363</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1708691439363</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="prueba" />
-    <option name="LAST_COMMIT_MESSAGE" value="prueba" />
+    <MESSAGE value="1listo" />
+    <option name="LAST_COMMIT_MESSAGE" value="1listo" />
   </component>
 </project>
