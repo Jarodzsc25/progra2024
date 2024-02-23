@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44516ae5-51ee-441f-96b5-e28efe9c7820" name="Changes" comment="1listo">
-      <change afterPath="$PROJECT_DIR$/src/ejemplos/multiplar.java" afterDir="false" />
+    <list default="true" id="44516ae5-51ee-441f-96b5-e28efe9c7820" name="Changes" comment="4listo">
+      <change afterPath="$PROJECT_DIR$/src/ejemplos/terrenos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,12 +70,28 @@
       <option name="project" value="LOCAL" />
       <updated>1708692210525</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="3&#10;listo">
+      <created>1708692701893</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1708692701893</updated>
+    </task>
+    <task id="LOCAL-00005" summary="4listo">
+      <created>1708692976193</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1708692976193</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="prueba" />
     <MESSAGE value="1listo" />
-    <option name="LAST_COMMIT_MESSAGE" value="1listo" />
+    <MESSAGE value="3&#10;listo" />
+    <MESSAGE value="4listo" />
+    <option name="LAST_COMMIT_MESSAGE" value="4listo" />
   </component>
 </project>
