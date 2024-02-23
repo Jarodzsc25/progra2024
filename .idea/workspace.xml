@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44516ae5-51ee-441f-96b5-e28efe9c7820" name="Changes" comment="6listo">
-      <change afterPath="$PROJECT_DIR$/src/ejemplos/ejem2_8.java" afterDir="false" />
+    <list default="true" id="44516ae5-51ee-441f-96b5-e28efe9c7820" name="Changes" comment="9/listo">
+      <change afterPath="$PROJECT_DIR$/src/ejemplos/ejem2_10.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -105,7 +105,21 @@
       <option name="project" value="LOCAL" />
       <updated>1708699631277</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="8/listo">
+      <created>1708700926399</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1708700926399</updated>
+    </task>
+    <task id="LOCAL-00010" summary="9/listo">
+      <created>1708701150029</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1708701150029</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -126,6 +140,8 @@
     <MESSAGE value="4listo" />
     <MESSAGE value="5listo" />
     <MESSAGE value="6listo" />
-    <option name="LAST_COMMIT_MESSAGE" value="6listo" />
+    <MESSAGE value="8/listo" />
+    <MESSAGE value="9/listo" />
+    <option name="LAST_COMMIT_MESSAGE" value="9/listo" />
   </component>
 </project>
