@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44516ae5-51ee-441f-96b5-e28efe9c7820" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ejemplos2/ejem3_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejemplos2/ejem3_11.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -183,7 +183,14 @@
       <option name="project" value="LOCAL" />
       <updated>1709250596692</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="listo">
+      <created>1709250727577</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1709250727578</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
