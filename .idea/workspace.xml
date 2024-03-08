@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44516ae5-51ee-441f-96b5-e28efe9c7820" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/clase/menu_registro_de_alumnos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ejemplos4/ejem5_1.java" afterDir="false" />
+    <list default="true" id="44516ae5-51ee-441f-96b5-e28efe9c7820" name="Changes" comment="listo">
+      <change afterPath="$PROJECT_DIR$/src/ejemplos4/ejem5_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -245,7 +244,14 @@
       <option name="project" value="LOCAL" />
       <updated>1709855647111</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="listo">
+      <created>1709903011995</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1709903011995</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
