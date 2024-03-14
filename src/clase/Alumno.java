@@ -1,20 +1,19 @@
 package clase;
 
-public class Alumnos {
-    String nombre;
-    String apellido1;
-    String apellido2;
-    String ci;
-    String telefono;
+public class Alumno {
+    private String nombre;
+    private String apellido1;
 
-    public Alumnos() {
-    }
+    private String apellido2;
 
-    public Alumnos(String nombre, String apellido1, String apellido2, String ci, String telefono) {
+    private int carnet;
+    private String telefono;
+
+    public Alumno(String nombre, String apellido1, String apellido2, int carnet, String telefono) {
         this.nombre = nombre;
         this.apellido1 = apellido1;
         this.apellido2 = apellido2;
-        this.ci = ci;
+        this.carnet = carnet;
         this.telefono = telefono;
     }
 
@@ -42,12 +41,12 @@ public class Alumnos {
         this.apellido2 = apellido2;
     }
 
-    public String getCi() {
-        return ci;
+    public int getCarnet() {
+        return carnet;
     }
 
-    public void setCi(String ci) {
-        this.ci = ci;
+    public void setCarnet(int carnet) {
+        this.carnet = carnet;
     }
 
     public String getTelefono() {
@@ -56,5 +55,14 @@ public class Alumnos {
 
     public void setTelefono(String telefono) {
         this.telefono = telefono;
+    }
+
+    @Override
+    public String toString() {
+        return "**Alumno:** " + nombre + "\n"
+                + "**apellido paterno:** " + apellido1 + "\n"
+                + "**apellido materno:** " + apellido2 + "\n"
+                + "**Carnet:** " + carnet + "\n"
+                + "**telefono:** " + telefono + "\n";
     }
 }
