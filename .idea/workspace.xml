@@ -4,15 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44516ae5-51ee-441f-96b5-e28efe9c7820" name="Changes" comment="listo">
-      <change afterPath="$PROJECT_DIR$/src/clase/Alumno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/clase/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ejemplos4/ejem5_5.java" afterDir="false" />
+    <list default="true" id="44516ae5-51ee-441f-96b5-e28efe9c7820" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/metodosYfunciones/CalculoFactorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/metodosYfunciones/Palindromos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/metodosYfunciones/SumaMatriz.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/clase/Alumnos.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/clase/alumnosDAO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/clase/menu_registro_de_alumnos.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ejemplos4/EJEM5_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ejemplos4/EJEM5_4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -271,7 +267,14 @@
       <option name="project" value="LOCAL" />
       <updated>1709905570140</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="listo">
+      <created>1710452158523</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1710452158523</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
