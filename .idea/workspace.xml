@@ -5,9 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44516ae5-51ee-441f-96b5-e28efe9c7820" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/metodosYfunciones/CalculoFactorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/metodosYfunciones/Palindromos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/metodosYfunciones/SumaMatriz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mientras/cola_antes_de_eliminar_elemento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mientras/cola_vacia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mientras/dos_colas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mientras/eliminar_elemento_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mientras/imprimir_cola.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mientras/menu_con_cola.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mientras/numer_impar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mientras/retirar_pares.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mientras/sumar_impares.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mientras/vaciar_cola.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -274,7 +281,21 @@
       <option name="project" value="LOCAL" />
       <updated>1710452158523</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="listo">
+      <created>1712873809636</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1712873809636</updated>
+    </task>
+    <task id="LOCAL-00033" summary="listo">
+      <created>1712876966567</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1712876966567</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
